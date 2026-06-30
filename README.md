@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy estudiante de Ingeniería en Sistemas y Redes 🚀
 
-<!--
-**Antoniox36/Antoniox36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub. Actualmente curso el segundo año de mi carrera, enfocado en el desarrollo de software, la automatización y la administración de bases de datos. También me desempeño como tutor universitario, reforzando fundamentos de programación y lógica con estudiantes de primer año.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas:
+- **Lenguajes de Programación:** Python, C#, Kotlin, Java (Fundamentos de C++ / Arduino)
+- **Desarrollo Web (Frontend):** HTML5, CSS3, JavaScript (Básico)
+- **Bases de Datos:** PostgreSQL, MySQL, SQL Server
+- **Infraestructura y Entornos:** Ubuntu Server, Docker, Tailscale, SSH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📜 Certificaciones y Badges:
+- **AWS Academy:** Cloud Foundations (Fundamentos de la Nube)
+- **Cisco Networking Academy:** IT Essentials
+
+### 🎯 Mis Objetivos Actuales:
+- Desarrollar e implementar soluciones de software reales enfocadas en la optimización de negocios (como sistemas de facturación electrónica y bases de datos replicadas).
+- Documentar mis laboratorios académicos, configuraciones de red y retos de código para reconstruir mi portafolio.
+- Seguir explorando arquitecturas de datos de alta disponibilidad y entornos cloud.
