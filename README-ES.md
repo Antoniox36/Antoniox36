@@ -68,10 +68,13 @@ Cuento con la certificación **Huawei Python & Data Science** (90/100), formaci�
       </td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="24" alt="SQL Server" /><br>Bases de Datos Multi-DB</td>
+      <tr>
+      <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="24" alt="SQL Server" /><br>Bases de Datos Multi-DB</td>
       <td valign="middle"><b>Motor de Transacciones Distribuidas:</b> Automatización de transacciones relacionales complejas mediante scripts unificados orquestando operaciones cruzadas entre <code>MySQL</code>, <code>SQL Server</code> y <code>PostgreSQL</code>.</td>
       <td align="center" valign="middle">
         <code>Privado / Lab</code>
+      </td>
+    </tr>
       </td>
     </tr>
     <tr>

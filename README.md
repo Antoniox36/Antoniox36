@@ -68,7 +68,7 @@ I hold a **Huawei Python & Data Science** certification (90/100), have completed
       </td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="24" alt="SQL Server" /><br>Multi-DB Systems</td>
+      <td align="center" valign="middle"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="24" alt="SQL Server" /><br>Multi-DB Systems</td>
       <td valign="middle"><b>Distributed Transaction Engine:</b> Automation of complex relational transactions using unified scripts orchestrating cross-operations between <code>MySQL</code>, <code>SQL Server</code>, and <code>PostgreSQL</code>.</td>
       <td align="center" valign="middle">
         <code>Private / Lab</code>
