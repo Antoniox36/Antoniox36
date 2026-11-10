@@ -112,9 +112,9 @@ Cuento con la certificaci√≥n **Huawei Python & Data Science** (90/100), formaci√
 <!-- GitHub Snake Contribution Grid -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antoniox36/Antoniox36/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Antoniox36/Antoniox36/output/github-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Antoniox36/Antoniox36/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antoniox36/Antoniox36/main/assets/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Antoniox36/Antoniox36/main/assets/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Antoniox36/Antoniox36/main/assets/github-snake-dark.svg" width="100%">
   </picture>
 </p>
 
