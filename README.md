@@ -1,28 +1,130 @@
-# ¡Hola! Soy Antonio, estudiante de Ingeniería en Sistemas y Redes 🚀
+<h1 align="center" style="margin-bottom: 0; color: #58A6FF;">Oscar Antonio Ramos Carbajal</h1>
+<p align="center" style="margin-top: 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+en+Sistemas+y+Redes+%E2%80%A2+UGB;Arquitectura+de+Software+%26+Bases+de+Datos;Hardware%2FIoT+%E2%80%A2+DevOps+%26+Linux+Homelab;Tutor+Acad%C3%A9mico+en+Programaci%C3%B3n+y+L%C3%B3gica" alt="Typing subtitle" />
+</p>
 
-Bienvenido a mi perfil de GitHub. Actualmente curso el segundo año de mi carrera, enfocado en la arquitectura de software, la seguridad de la información, administración de bases de datos e integración de hardware/IoT. También me desempeño como tutor universitario, reforzando fundamentos de programación y lógica con estudiantes de primer año.
+<p align="center">
+  <a href="mailto:oscarantoniox36@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/Antoniox36" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-### 🛠️ Tecnologías y Herramientas:
-- **Lenguajes de Programación:** Python (PyQt), C#, Kotlin, Java, C++
-- **Bases de Datos:** PostgreSQL, MySQL, SQL Server | **NoSQL:** MongoDB, CouchDB
-- **Desarrollo Web (Frontend):** HTML5, CSS3, JavaScript
-- **Infraestructura y DevOps:** Ubuntu Server, Docker, WSL2, Tailscale, SSH
-- **Seguridad y Calidad de Código:** SonarQube, RBAC, normativas ISO 27001/27018
-- **Hardware, IoT y Simulación:** Arduino, Proteus (Circuitos Lógicos, Flip-Flops)
+<hr />
 
-### 🚀 Proyectos Destacados (Portafolio):
-- 🌱 **AireCentinela-AI:** Proyecto de hardware medioambiental e Inteligencia Artificial integrando Python, C++ y Arduino.
-- 🛡️ **MediSync SV:** Sistema de Gestión de Seguridad de la Información (SGSI) basado en normativas ISO 27001/27018, con implementación de roles (RBAC) en MySQL y análisis de calidad con SonarQube.
-- 🏛️ **Sistema Atenea:** Diseño de la arquitectura de software y administración integral del repositorio.
-- ♻️ **Proyecto Bambú (Servidor Ecológico):** Servidor funcional ensamblado a partir de la recuperación y diagnóstico de componentes extraídos de un lote de 20 estaciones de trabajo donadas para la feria de Hardmodding.
-- 🚗 **Sistema de Renta de Vehículos:** Aplicación de escritorio con Interfaz Gráfica (GUI) desarrollada en Python utilizando PyQt.
+## 👨‍💻 Sobre Mí
 
-### 📜 Certificaciones y Formación:
-- **Bachiller Técnico Vocacional:** Infraestructura Tecnológica y Servicios Informáticos (24 módulos)
-- **AWS Academy:** Cloud Foundations (Fundamentos de la Nube)
-- **Cisco Networking Academy:** IT Essentials
+Soy estudiante becado a tiempo completo de **Ingeniería en Computación en Sistemas y Redes** en la Universidad Gerardo Barrios (UGB), manteniendo un rendimiento académico de excelencia (CUM > 9.4). Mi enfoque está en la **arquitectura de software**, la **administración de bases de datos multi-motor**, la **infraestructura Linux (DevOps)** y la **integración de hardware e Inteligencia Artificial**.
 
-### 🎯 Mis Objetivos Actuales:
-- Desarrollar e implementar soluciones de software reales enfocadas en la optimización de negocios y bases de datos replicadas de alta disponibilidad.
-- Investigar sobre recompilación estática de software para ejecución nativa y arquitecturas de sistemas complejos.
-- Documentar mis laboratorios académicos, configuraciones de servidores Linux y retos de hardmodding/electrónica.
+Paralelamente, me desempeño como **Tutor Académico e Instructor de Refuerzo**, guiando a estudiantes de primer año en Fundamentos de Programación (Python), Programación Orientada a Objetos (POO), Lógica de Sistemas, Estructuras de Datos y Matemática Discreta.
+
+Cuento con la certificación **Huawei Python & Data Science** (90/100), formación continua en **Infraestructura Cloud e IA** (Escuela EEST), además de acreditaciones en **AWS Academy** (Cloud Foundations) y **Cisco Networking Academy** (IT Essentials). Mi objetivo a futuro es realizar estudios de maestría y doctorado orientados a Machine Learning e Inteligencia Artificial para la docencia e investigación universitaria.
+
+<hr />
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+  <p><b>Lenguajes & Backend</b></p>
+  <img src="https://skillicons.dev/icons?i=py,cs,java,cpp,kotlin,bash" />
+  <br /><br />
+  <p><b>Bases de Datos Multi-motor</b></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,cassandra,redis" />
+  <br /><br />
+  <p><b>Infraestructura, DevOps & Entornos</b></p>
+  <img src="https://skillicons.dev/icons?i=ubuntu,docker,linux,git,github,vscode,postman" />
+  <br /><br />
+  <p><b>Hardware, IoT & Simulación</b></p>
+  <img src="https://skillicons.dev/icons?i=arduino,c" />
+</div>
+
+<hr />
+
+## 🚀 Proyectos & Desarrollos Destacados
+
+<table>
+  <thead>
+    <tr>
+      <th>Área / Entorno</th>
+      <th>Proyecto / Descripción</th>
+      <th>Repositorio / Enlace</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/python/3776AB" height="16" alt="" />&nbsp; IoT &amp; Machine Learning</td>
+      <td><b>AireCentinela-AI:</b> Sistema de monitoreo ambiental con hardware (Arduino Uno R3, sensores BME280 y CCS811, OLED SSD1306), dashboard de escritorio en <code>PyQt6</code> y modelo de ML (<code>IsolationForest</code>) para detección de anomalías en la calidad del aire.</td>
+      <td align="center">
+        <a href="https://github.com/Antoniox36/AireCentinela-AI"><code>AireCentinela-AI</code></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/sqlite/003B57" height="16" alt="" />&nbsp; Arquitectura Desktop</td>
+      <td><b>Sistema Atenea:</b> Software de gestión integral de tutorías académicas. Desarrollado en <code>PySide6</code>, persistencia en <code>SQLite</code>, cifrado criptográfico SHA-256 y módulo analítico de datos con <code>Matplotlib</code>.</td>
+      <td align="center">
+        <a href="https://github.com/Antoniox36/sistema_atenea"><code>sistema_atenea</code></a>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="16" alt="" />&nbsp; Bases de Datos Multi-DB</td>
+      <td><b>Motor de Transacciones Distribuidas:</b> Automatización de transacciones relacionales complejas mediante scripts unificados orquestando operaciones cruzadas entre <code>MySQL</code>, <code>SQL Server</code> y <code>PostgreSQL</code>.</td>
+      <td align="center">
+        <code>Privado / Lab</code>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="16" alt="" />&nbsp; DevOps &amp; Homelab</td>
+      <td><b>Servidor Linux Autónomo:</b> Infraestructura personal alojada en <code>Ubuntu Server 24.04 LTS</code> administrada vía SSH/PuTTY, contenedores <code>Docker</code> (Nextcloud, AdGuard, Homepage) y acceso remoto seguro con VPN (<code>Tailscale</code>).</td>
+      <td align="center">
+        <code>Homelab</code>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://cdn.simpleicons.org/arduino/00979D" height="16" alt="" />&nbsp; Simulación &amp; Circuitos</td>
+      <td><b>Electrónica Lógica:</b> Diseño, cálculo y validación de sistemas combinacionales y secuenciales (computación con Flip-Flops 74HC73, circuitos lógicos y sensores I2C) simulados en Proteus y Tinkercad.</td>
+      <td align="center">
+        <code>Lab Hardware</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+## 📊 Analíticas de GitHub & Actividad
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Antoniox36&theme=github_dark">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Antoniox36&theme=github" alt="Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Antoniox36&theme=github_dark">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Antoniox36&theme=github" alt="Top Languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antoniox36&theme=github_dark">
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Antoniox36&theme=github" alt="Profile Details" />
+  </picture>
+</p>
+
+<!-- GitHub Snake Contribution Grid -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antoniox36/Antoniox36/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Antoniox36/Antoniox36/output/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Antoniox36/Antoniox36/output/github-snake.svg">
+  </picture>
+</p>
+
+<hr />
+
+<p align="center">
+  <i>"La imaginación es más importante que el conocimiento; el conocimiento es limitado, mientras que la imaginación no."</i> <br> — Albert Einstein
+</p>
+
+<!-- Contador de visitas -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Antoniox36&style=for-the-badge&color=58A6FF" alt="Visitas" />
+</p>
